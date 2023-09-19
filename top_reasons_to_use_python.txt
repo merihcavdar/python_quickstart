@@ -1,0 +1,7 @@
+1. readable and maintanable code
+2. supports multiple approaches
+3. compatibility
+4. large standart library
+5. open source tools and frameworks
+6. ability to develop complex software
+7. test driven development

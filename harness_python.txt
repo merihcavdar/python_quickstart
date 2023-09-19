@@ -1,0 +1,10 @@
+Web Development:
+  Ex. Django, Flask
+  Run on server
+Data Science
+  Useful in machine learning
+  Ex: scikit-learn, TensorFlow
+
+Python Data Tools
+  Data Visualisation
+  Ex: mabplotlib, seaborn

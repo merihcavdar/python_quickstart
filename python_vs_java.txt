@@ -1,0 +1,7 @@
+python -> java
+code readability -> minimal implementation dependencies
+- clean codebase
+- both are high level
+- beginner friendly -> steep learning curve
+- OS specific -> multi step code
+- data science preferred -> android preferred
